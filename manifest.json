@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-twitch/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-twitch/releases/download/v0.2.0-alpha.7/plugin-twitch.zip",
-  "sha256": "b35b2888584db76eb946660892f276f3d3aa6b54b2e7145e72e214b02714ba6a"
+  "sha256": "2daffda4b5fa5483831d49813b3a920ae92fe803bf40869d39b864ee576a3106"
 }
