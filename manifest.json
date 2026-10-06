@@ -1,13 +1,13 @@
 {
   "key": "twitch",
   "name": "Twitch",
-  "version": "0.2.0-alpha.7",
+  "version": "0.2.0-alpha.8",
   "description": "Twitch chat, EventSub, moderation, polls, predictions, and channel actions.",
   "icon": "ri:twitch-fill",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-twitch/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-twitch/releases/download/v0.2.0-alpha.7/plugin-twitch.zip",
-  "sha256": "2daffda4b5fa5483831d49813b3a920ae92fe803bf40869d39b864ee576a3106"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-twitch/releases/download/v0.2.0-alpha.8/plugin-twitch.zip",
+  "sha256": "39e88d0f6a66bdbbd2ae723387e149a5a043f9c39c851bc1205112cd17247311"
 }
